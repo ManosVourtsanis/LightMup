@@ -1,3 +1,3 @@
 # LightMup
 
-LightMup is a personal project to highlight a text and stream it from the user's android device.
+LightMup is a personal project which provides an android user the ability to stream a text via his device.
